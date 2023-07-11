@@ -168,6 +168,10 @@ footer{
   .profile{
       align-items: center;
   }
+  .profile img {
+    width: 100px;
+    height:100px;
+  }
   .quote{
       padding:0;
   }
